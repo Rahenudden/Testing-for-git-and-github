@@ -1,3 +1,2 @@
 This is a txt file.
-Now add new something.
-aro kiso naton add korlam.
+bug fixed 
